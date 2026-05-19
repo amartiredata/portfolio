@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <section className="hero">
-        <h1>Ana Martire</h1>
+        <h1>Ana </h1>
 
         <h2>
           HR Analytics • BI • Data Automation
